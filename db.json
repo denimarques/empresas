@@ -1,10 +1,10 @@
 {
   "cadastro_empresas": [
     {
-      "razaoSocial": "Deniul Marques",
-      "cnpj": "19.229.903/0000-11",
+      "razaoSocial": "D M DOS SANTOS COMÉRCIO E SERVIÇOS",
+      "cnpj": "19229903000011",
       "dataFundacao": "06/07/2023",
-      "email": "deniulmarques-10@hotmail.com",
+      "email": "compras@lmserc.com.br",
       "telefone": "27998019934",
       "cep": "29913050",
       "logradouro": "Avenida João da Hora Borges",
@@ -17,7 +17,7 @@
     },
     {
       "razaoSocial": "Vanessa e Fernando Gráfica ME",
-      "cnpj": "47.252.406/0001-25",
+      "cnpj": "47252406000125",
       "dataFundacao": "15/11/2023",
       "email": "treinamento@vanessaefernandograficame.com.br",
       "telefone": "1928339895",
@@ -32,7 +32,7 @@
     },
     {
       "razaoSocial": "Ian e Allana Ferragens ME",
-      "cnpj": "87.790.362/0001-01",
+      "cnpj": "87790362000101",
       "dataFundacao": "09/11/2023",
       "email": "qualidade@ianeallanaferragensme.com.br",
       "telefone": "18264277685",
@@ -47,7 +47,7 @@
     },
     {
       "razaoSocial": "Paulo e Caroline Financeira Ltda",
-      "cnpj": "66.158.668/0001-70",
+      "cnpj": "66158668000170",
       "dataFundacao": "08/03/2018",
       "email": "financeiro@pauloecarolinefinanceiraltda.com.br",
       "telefone": "11286924552",
@@ -62,7 +62,7 @@
     },
     {
       "razaoSocial": "Mateus e Thiago Gráfica ME",
-      "cnpj": "08.930.954/0001-05",
+      "cnpj": "08930954000105",
       "dataFundacao": "24/08/2018",
       "email": "desenvolvimento@mateusethiagograficame.com.br",
       "telefone": "1127127936",
